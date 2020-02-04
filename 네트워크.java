@@ -11,7 +11,7 @@ class Solution {
 	static int[] dy = { 0, 0, -1, 1 };
 	public int solution(int n, int[][] computers) {
 		int answer = 0;
-		check = new boolean[n];
+		check = new boolean[n]; 
         
 		// bfs 탐색
 		for (int i = 0; i < n; i++) {
