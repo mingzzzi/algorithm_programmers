@@ -1,9 +1,8 @@
 /*
-2020.02.04.
-https://programmers.co.kr/learn/courses/30/lessons/43162
-Level3: 네트워크
+*2020.02.04.
+*https://programmers.co.kr/learn/courses/30/lessons/43162
+*Level3: 네트워크
 */
-
 import java.util.*;
 class Solution {
 	static Queue<Integer> q = new LinkedList<>();
